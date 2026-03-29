@@ -54,6 +54,7 @@ Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:�
 | Frontend | React, Next.js |
 | Mobile | Expo, React Native |
 | Backend | Node.js |
+| BaaS / cloud | Firebase |
 | Data & CMS | PostgreSQL, Directus |
 | Testing | Vitest, Playwright |
 | Containers | Docker |
@@ -70,7 +71,7 @@ Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:�
 
 ### ♪ About me
 
-I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**, and **Node.js** APIs. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
+I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**, **Node.js** APIs, and **Firebase**. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
@@ -80,7 +81,7 @@ I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**,
 
 ### ♪ Ask me about ~
 
-React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Next.js
+Expo · Firebase · React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Next.js
 
 <p align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></p>
 
