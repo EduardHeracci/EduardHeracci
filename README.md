@@ -12,7 +12,7 @@
 <br />
 <sub><em>main stage energy ~ ♪ &nbsp;·&nbsp; debugging but make it kawaii</em></sub>
 <br />
-<sub>GIFs from <a href="https://giphy.com">GIPHY</a> · <em>Hatsune Miku</em> is a trademark of Crypton Future Media, INC.</sub>
+<sub>GIFs from <a href="https://giphy.com">GIPHY</a> · Hatsune Miku © <a href="https://piapro.net/intl/en_for_creators.html">Crypton Future Media, Inc.</a> 2007 · <a href="https://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0</a></sub>
 
 <br /><br />
 
