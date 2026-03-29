@@ -22,8 +22,6 @@
 
 # Hi, I'm Eduard Heracci ~ ♪ ✧
 
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
 **Web & Mobile Developer** · crafting interfaces that feel *clear, kind, and a little fun* ✨
 
 <br />
@@ -76,8 +74,6 @@
 ### ♪ About Me
 
 I spend most of my time in **Expo**, **Firebase**, and **Node.js** (Firebase Cloud Functions), and I still reach for **Next.js** and **React** when a project leans web. **Directus** + **PostgreSQL** handle a lot of my content and data shape, and **Vitest** + **Playwright** keep me honest.
-
-I care about building things that are **fast, maintainable, and pleasant to use** — whether it's a mobile app or a backend pipeline ✨
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
