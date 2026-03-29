@@ -20,7 +20,7 @@
 
 <br />
 
-<bold>Hi, I'm Eduard Heracci ~ ♪ ✧</bold> 
+<h1 style="border:none">Hi, I'm Eduard Heracci ~ ♪ ✧</h1> 
 
 **Web & Mobile Developer** · crafting interfaces that feel *clear, kind, and a little fun* ✨
 
