@@ -20,9 +20,7 @@
 
 <br />
 
-## Hi, I'm Eduard Heracci ~ ♪ ✧
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
+<h1>Hi, I'm Eduard Heracci ~ ♪ ✧<h1> 
 
 **Web & Mobile Developer** · crafting interfaces that feel *clear, kind, and a little fun* ✨
 
