@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Decorative banner: soft teal gradient with abstract waves">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8FBF9"/>
+      <stop offset="55%" style="stop-color:#FFFFFF"/>
+      <stop offset="100%" style="stop-color:#F0FFFD"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#39C5BB;stop-opacity:0.35"/>
+      <stop offset="50%" style="stop-color:#39C5BB;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#39C5BB;stop-opacity:0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="140" fill="url(#bg)"/>
+  <path d="M0 95 Q 150 65 300 90 T 600 88 T 900 92 T 1200 85 L 1200 140 L 0 140 Z" fill="url(#wave)" opacity="0.22"/>
+  <path d="M0 102 Q 200 78 400 98 T 800 96 T 1200 90" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M0 112 Q 180 100 360 108 T 720 106 T 1200 100" fill="none" stroke="#586069" stroke-width="1" stroke-linecap="round" opacity="0.35"/>
+  <circle cx="1080" cy="38" r="4" fill="#E8489F" opacity="0.55"/>
+  <circle cx="1105" cy="52" r="2.5" fill="#39C5BB" opacity="0.5"/>
+</svg>
