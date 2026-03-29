@@ -99,24 +99,7 @@ I care about building things that are **fast, maintainable, and pleasant to use*
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
-### ♪ GitLab Stats
 
-<div align="center">
-
-<img src="https://gitlab-readme-stats.vercel.app/api?username=EduardHeracci&show_icons=true&theme=transparent&title_color=39C5BB&icon_color=E8489F&text_color=c9d1d9&border_color=39C5BB&hide_border=false&count_private=true" alt="GitLab Stats" height="165" />
-&nbsp;
-<img src="https://gitlab-readme-stats.vercel.app/api/top-langs/?username=EduardHeracci&layout=compact&theme=transparent&title_color=39C5BB&text_color=c9d1d9&border_color=39C5BB&hide_border=false" alt="Top Languages" height="165" />
-
-<br /><br />
-
-<!-- GitLab activity graph via meienberger's gitlab-readme-activity -->
-<img src="https://gitlab-readme-activity.vercel.app/api/activity?username=EduardHeracci&theme=react-dark&color=39C5BB&line=39C5BB&point=E8489F&area=true&hide_border=false" alt="GitLab Activity Graph" width="100%" />
-
-</div>
-
-<br />
-<div align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></div>
-<br />
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
@@ -140,4 +123,4 @@ I care about building things that are **fast, maintainable, and pleasant to use*
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
-<sub>Palette: teal <code>#39C5BB</code> · wash <code>#E8FBF9</code> · accent <code>#E8489F</code> &nbsp;·&nbsp; Banner & dividers are original SVGs &nbsp;·&nbsp; Stats via <a href="https://gitlab-readme-stats.vercel.app">gitlab-readme-stats</a> & <a href="https://gitlab-readme-activity.vercel.app">gitlab-readme-activity</a></sub>
+<sub>Palette: teal <code>#39C5BB</code> · wash <code>#E8FBF9</code> · accent <code>#E8489F</code> &nbsp;·&nbsp; Banner & dividers are original SVGs</sub>
