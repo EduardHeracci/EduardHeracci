@@ -22,6 +22,8 @@
 
 # Hi, I'm Eduard Heracci ~ ♪ ✧
 
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
 **Web & Mobile Developer** · crafting interfaces that feel *clear, kind, and a little fun* ✨
 
 <br />
@@ -96,10 +98,6 @@ I care about building things that are **fast, maintainable, and pleasant to use*
 <br />
 <div align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></div>
 <br />
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
-
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
