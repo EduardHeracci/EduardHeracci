@@ -26,7 +26,6 @@
 
 <br />
 
-![Philippines](https://img.shields.io/badge/📍-Philippines-39C5BB?style=flat-square&labelColor=0d1117&color=39C5BB)
 ![Open to work](https://img.shields.io/badge/Open%20to-Collaborate-E8489F?style=flat-square&labelColor=0d1117)
 ![Miku teal enjoyer](https://img.shields.io/badge/Miku--teal-enjoyer_%23-39C5BB?style=flat-square&labelColor=0d1117&color=39C5BB)
 
@@ -100,17 +99,18 @@ I care about building things that are **fast, maintainable, and pleasant to use*
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
-### ♪ GitHub Stats
+### ♪ GitLab Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EduardHeracci&show_icons=true&theme=transparent&title_color=39C5BB&icon_color=E8489F&text_color=c9d1d9&border_color=39C5BB&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://gitlab-readme-stats.vercel.app/api?username=EduardHeracci&show_icons=true&theme=transparent&title_color=39C5BB&icon_color=E8489F&text_color=c9d1d9&border_color=39C5BB&hide_border=false&count_private=true" alt="GitLab Stats" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardHeracci&layout=compact&theme=transparent&title_color=39C5BB&text_color=c9d1d9&border_color=39C5BB&hide_border=false" alt="Top Languages" height="165" />
+<img src="https://gitlab-readme-stats.vercel.app/api/top-langs/?username=EduardHeracci&layout=compact&theme=transparent&title_color=39C5BB&text_color=c9d1d9&border_color=39C5BB&hide_border=false" alt="Top Languages" height="165" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=EduardHeracci&theme=transparent&ring=39C5BB&fire=E8489F&currStreakLabel=39C5BB&sideLabels=39C5BB&dates=c9d1d9&border=39C5BB" alt="GitHub Streak" />
+<!-- GitLab activity graph via meienberger's gitlab-readme-activity -->
+<img src="https://gitlab-readme-activity.vercel.app/api/activity?username=EduardHeracci&theme=react-dark&color=39C5BB&line=39C5BB&point=E8489F&area=true&hide_border=false" alt="GitLab Activity Graph" width="100%" />
 
 </div>
 
@@ -140,4 +140,4 @@ I care about building things that are **fast, maintainable, and pleasant to use*
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
-<sub>Palette: teal <code>#39C5BB</code> · wash <code>#E8FBF9</code> · accent <code>#E8489F</code> &nbsp;·&nbsp; Banner & dividers are original SVGs &nbsp;·&nbsp; Stats via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> & <a href="https://streak-stats.demolab.com">streak-stats</a></sub>
+<sub>Palette: teal <code>#39C5BB</code> · wash <code>#E8FBF9</code> · accent <code>#E8489F</code> &nbsp;·&nbsp; Banner & dividers are original SVGs &nbsp;·&nbsp; Stats via <a href="https://gitlab-readme-stats.vercel.app">gitlab-readme-stats</a> & <a href="https://gitlab-readme-activity.vercel.app">gitlab-readme-activity</a></sub>
