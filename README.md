@@ -12,7 +12,15 @@
 
 <br /><br />
 
-<sub>GIF from <a href="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y">GIPHY</a> · <em>Hatsune Miku</em> is a trademark of Crypton Future Media, INC.</sub>
+<img src="https://media.giphy.com/media/NknysRm1z1qPVsec4d/giphy.gif" width="175" alt="Cute Miku-style GIF from GIPHY" />
+
+<br />
+
+<sub><em>debugging but make it kawaii</em></sub>
+
+<br /><br />
+
+<sub>GIFs from <a href="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y">GIPHY</a> · <em>Hatsune Miku</em> is a trademark of Crypton Future Media, INC.</sub>
 
 <br /><br />
 
@@ -22,7 +30,7 @@
 
 <br />
 
-# Hi, I'm Eduard Heracci ~ ♪✧
+<h3 align="center">Hi, I'm Eduard Heracci ~ ♪✧</h3>
 
 <img src="assets/divider.svg" alt="" width="100%" height="10" />
 
