@@ -20,7 +20,7 @@
 
 <br />
 
-### Hi, I'm Eduard Heracci ~ ♪ ✧
+## Hi, I'm Eduard Heracci ~ ♪ ✧
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
