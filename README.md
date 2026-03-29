@@ -71,7 +71,7 @@ Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:�
 
 ### ♪ About me
 
-I spend most of my time in **Expo**, **Firebase**, and **Node.js** APIs, and I still reach for **React** & **Next.js** when a project leans web. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
+I spend most of my time in **Expo**, **Firebase**, and **Node.js** (**Firebase Cloud Functions**), and I still reach for **Next.js** and **React** when a project leans web. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
