@@ -4,105 +4,140 @@
 
 <br />
 
-<img src="https://media.giphy.com/media/Hs1ZdBBpaHO9y/giphy.gif" width="175" alt="Hatsune Miku dancing — GIF from GIPHY" />
+<!-- Miku GIFs -->
+<img src="https://media.giphy.com/media/Hs1ZdBBpaHO9y/giphy.gif" width="160" alt="Hatsune Miku dancing — GIF from GIPHY" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/NknysRm1z1qPVsec4d/giphy.gif" width="160" alt="Cute Miku-style GIF from GIPHY" />
+
+<br />
+<sub><em>main stage energy ~ ♪ &nbsp;·&nbsp; debugging but make it kawaii</em></sub>
+<br />
+<sub>GIFs from <a href="https://giphy.com">GIPHY</a> · <em>Hatsune Miku</em> is a trademark of Crypton Future Media, INC.</sub>
+
+<br /><br />
+
+<img src="assets/sparkle-row.svg" alt="" width="260" />
 
 <br />
 
-<sub><em>main stage energy ~ ♪</em></sub>
+# Hi, I'm Eduard Heracci ~ ♪ ✧
 
-<br /><br />
-
-<img src="https://media.giphy.com/media/NknysRm1z1qPVsec4d/giphy.gif" width="175" alt="Cute Miku-style GIF from GIPHY" />
+**Web & Mobile Developer** · crafting interfaces that feel *clear, kind, and a little fun* ✨
 
 <br />
 
-<sub><em>debugging but make it kawaii</em></sub>
+![Philippines](https://img.shields.io/badge/📍-Philippines-39C5BB?style=flat-square&labelColor=0d1117&color=39C5BB)
+![Open to work](https://img.shields.io/badge/Open%20to-Collaborate-E8489F?style=flat-square&labelColor=0d1117)
+![Miku teal enjoyer](https://img.shields.io/badge/Miku--teal-enjoyer_%23-39C5BB?style=flat-square&labelColor=0d1117&color=39C5BB)
 
-<br /><br />
+<br />
 
-<sub>GIFs from <a href="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y">GIPHY</a> · <em>Hatsune Miku</em> is a trademark of Crypton Future Media, INC.</sub>
+*Also known as **Wellhung** / **Paccula** — gaming & dev handles elsewhere ~*
 
-<br /><br />
+<br />
 
-<a href="https://commons.wikimedia.org/wiki/File:Hatsune_miku_logo_v3.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Hatsune_miku_logo_v3.png" width="140" alt="Hatsune Miku wordmark — Wikimedia Commons (PD-textlogo; trademark may apply)" /></a>
+♡ · ～ · ♪ · ～ · ♡
+
+<img src="assets/sparkle-row.svg" alt="" width="240" />
 
 </div>
 
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
 <br />
 
-<h3 align="center">Hi, I'm Eduard Heracci ~ ♪✧</h3>
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
-<p align="center"><img src="assets/sparkle-row.svg" alt="" width="260" /></p>
-
-<p align="center"><strong>Web & mobile developer</strong> · I care about interfaces that feel <em>clear, kind, and a little fun</em> ✨<br />
-Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</p>
-
-<p align="center"><i>Also <b>Wellhung</b> / <b>Paccula</b> — gaming & dev handles elsewhere ~</i></p>
-
-<p align="center">♡ · ～ · ♪ · ～ · ♡</p>
-
-<p align="center"><img src="assets/sparkle-row.svg" alt="" width="220" /></p>
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
-### ♪ My toolbox
-
-| Area | Tools |
-|------|--------|
-| Frontend | React, Next.js |
-| Mobile | Expo, React Native |
-| Backend | Node.js |
-| BaaS / cloud | Firebase |
-| Data & CMS | PostgreSQL, Directus |
-| Testing | Vitest, Playwright |
-| Containers | Docker |
-| VCS & collab | Git, GitLab, GitHub |
-| Cloud (AWS) | Docker deploys, S3 for files |
-| Automation | GitLab CI / GitHub Actions *when the project uses them* |
-| UI | Ant Design, Gluestack UI, MUI, Tailwind CSS |
-
-<p align="center"><sub>✦</sub> · ˚ · <sub>♡</sub> · ˚ · <sub>✦</sub></p>
-
-<p align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></p>
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
-### ♪ About me
-
-I spend most of my time in **Expo**, **Firebase**, and **Node.js** (**Firebase Cloud Functions**), and I still reach for **Next.js** and **React** when a project leans web. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
-### ♪ Leveling up
-
-**Vue.js** & **FastAPI** — new playgrounds next to my React / Node comfort zone ~ ٩(｡•́‿•̀｡)۶
-
-### ♪ Ask me about ~
-
-Expo · Firebase · React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Next.js
-
-<p align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></p>
+### ♪ My Toolbox
 
 <div align="center">
 
+| 🎨 Area | 🛠 Tools |
+|:--------|:---------|
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Mobile** | ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **BaaS / Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Data & CMS** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Directus](https://img.shields.io/badge/Directus-6644FF?style=flat-square&logo=directus&logoColor=white) |
+| **Testing** | ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **VCS & Collab** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Cloud (AWS)** | ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white) Docker deploys |
+| **Automation** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **UI Libraries** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white) Ant Design · Gluestack UI |
+
+</div>
+
+<br />
+<div align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></div>
+<br />
+
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
+
+### ♪ About Me
+
+I spend most of my time in **Expo**, **Firebase**, and **Node.js** (Firebase Cloud Functions), and I still reach for **Next.js** and **React** when a project leans web. **Directus** + **PostgreSQL** handle a lot of my content and data shape, and **Vitest** + **Playwright** keep me honest.
+
+I care about building things that are **fast, maintainable, and pleasant to use** — whether it's a mobile app or a backend pipeline ✨
+
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
+### ♪ Leveling Up
+
+**Vue.js** & **FastAPI** — new playgrounds next to my React / Node comfort zone ~ ٩(｡•́‿•̀｡)۶
+
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
+### ♪ Ask Me About ~
+
+<div align="center">
+
+`Expo` · `Firebase` · `React Native` · `Directus` · `Playwright` · `Docker + AWS` · `GitLab` · `Next.js`
+
+</div>
+
+<br />
+<div align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></div>
+<br />
+
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
+### ♪ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EduardHeracci&show_icons=true&theme=transparent&title_color=39C5BB&icon_color=E8489F&text_color=c9d1d9&border_color=39C5BB&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardHeracci&layout=compact&theme=transparent&title_color=39C5BB&text_color=c9d1d9&border_color=39C5BB&hide_border=false" alt="Top Languages" height="165" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=EduardHeracci&theme=transparent&ring=39C5BB&fire=E8489F&currStreakLabel=39C5BB&sideLabels=39C5BB&dates=c9d1d9&border=39C5BB" alt="GitHub Streak" />
+
+</div>
+
+<br />
+<div align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></div>
+<br />
+
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
+<div align="center">
+
+**GitHub** → [@EduardHeracci](https://github.com/EduardHeracci) &nbsp;·&nbsp; **GitLab** → [@EduardHeracci](https://gitlab.com/EduardHeracci)
 
 <br />
 
-<strong>GitHub</strong> → <a href="https://github.com/EduardHeracci">@EduardHeracci</a> · <strong>GitLab</strong> → <a href="https://gitlab.com/EduardHeracci">@EduardHeracci</a>
+<sub>Portfolio & LinkedIn — coming soon ♡</sub>
 
 <br /><br />
 
-<sub>No LinkedIn / portfolio yet — I’ll add links when they exist ♡</sub>
+*Thanks for visiting — stay teal, stay curious ~ ♪*
 
-<br /><br />
+<br />
 
-<em>Thanks for visiting — stay teal, stay curious ~ ♪</em>
+<img src="assets/sparkle-row.svg" alt="" width="240" />
 
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
-<sub>Palette: teal <code>#39C5BB</code>, wash <code>#E8FBF9</code>, accent <code>#E8489F</code>. Banner & dividers are original SVGs. Wordmark: <a href="https://commons.wikimedia.org/wiki/File:Hatsune_miku_logo_v3.png">Wikimedia Commons</a> (PD-textlogo / trademark may apply).</sub>
+<sub>Palette: teal <code>#39C5BB</code> · wash <code>#E8FBF9</code> · accent <code>#E8489F</code> &nbsp;·&nbsp; Banner & dividers are original SVGs &nbsp;·&nbsp; Stats via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> & <a href="https://streak-stats.demolab.com">streak-stats</a></sub>
