@@ -22,6 +22,8 @@
 
 <h3>Hi, I'm Eduard Heracci ~ ♪ ✧</h3> 
 
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
 **Web & Mobile Developer** · crafting interfaces that feel *clear, kind, and a little fun* ✨
 
 <br />
