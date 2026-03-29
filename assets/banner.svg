@@ -1,36 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Decorative banner: Miku-inspired teal gradient, stars, and soft waves (no character art)">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 175" width="1200" height="175" role="img" aria-label="Decorative banner: Miku-inspired teal gradient, stars, and soft waves (no character art)">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#E8FBF9"/>
-      <stop offset="50%" style="stop-color:#FFFFFF"/>
-      <stop offset="100%" style="stop-color:#F5FFFE"/>
+      <stop offset="45%" style="stop-color:#FFFFFF"/>
+      <stop offset="100%" style="stop-color:#F0FFFD"/>
     </linearGradient>
     <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#39C5BB;stop-opacity:0.35"/>
       <stop offset="50%" style="stop-color:#39C5BB;stop-opacity:0.95"/>
       <stop offset="100%" style="stop-color:#39C5BB;stop-opacity:0.35"/>
     </linearGradient>
+    <radialGradient id="bloom" cx="18%" cy="15%" r="45%">
+      <stop offset="0%" style="stop-color:#E8489F;stop-opacity:0.14"/>
+      <stop offset="55%" style="stop-color:#39C5BB;stop-opacity:0.08"/>
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="bloom2" cx="92%" cy="22%" r="35%">
+      <stop offset="0%" style="stop-color:#39C5BB;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="160" fill="url(#bg)"/>
-  <!-- soft stars -->
-  <g fill="#39C5BB" opacity="0.35">
-    <path d="M88 28l2.2 6.7h7.1l-5.7 4.1 2.2 6.7-5.8-4.2-5.8 4.2 2.2-6.7-5.7-4.1h7.1z"/>
-    <path d="M1020 22l1.6 4.9h5.2l-4.2 3 1.6 4.9-4.2-3.1-4.2 3.1 1.6-4.9-4.2-3h5.2z" opacity="0.8"/>
-    <path d="M180 48l1.2 3.6h3.8l-3.1 2.2 1.2 3.6-3.1-2.3-3.1 2.3 1.2-3.6-3.1-2.2h3.8z" fill="#E8489F" opacity="0.45"/>
+  <rect width="1200" height="175" fill="url(#bg)"/>
+  <ellipse cx="210" cy="38" rx="140" ry="70" fill="url(#bloom)"/>
+  <ellipse cx="1080" cy="48" rx="120" ry="60" fill="url(#bloom2)"/>
+  <!-- stars -->
+  <g fill="#39C5BB" opacity="0.38">
+    <path d="M72 32l2 6h6.4l-5.2 3.6 2 6-5.2-3.8-5.2 3.8 2-6-5.2-3.6h6.4z"/>
+    <path d="M88 58l1.4 4.2h4.5l-3.6 2.6 1.4 4.2-3.6-2.6-3.6 2.6 1.4-4.2-3.6-2.6h4.5z" opacity="0.75"/>
+    <path d="M1040 26l1.8 5.4h5.8l-4.7 3.4 1.8 5.4-4.7-3.4-4.7 3.4 1.8-5.4-4.7-3.4h5.8z"/>
+    <path d="M420 24l1.2 3.6h3.8l-3.1 2.2 1.2 3.6-3.1-2.3-3.1 2.3 1.2-3.6-3.1-2.2h3.8z" opacity="0.55"/>
+    <path d="M680 40l1.5 4.5h4.7l-3.8 2.7 1.5 4.5-3.8-2.8-3.8 2.8 1.5-4.5-3.8-2.7h4.7z" opacity="0.5"/>
   </g>
-  <g fill="#E8489F" opacity="0.25">
-    <circle cx="320" cy="36" r="3"/>
-    <circle cx="890" cy="44" r="2.5"/>
+  <g fill="#E8489F" opacity="0.32">
+    <path d="M168 44l1 3h3.2l-2.6 1.9 1 3-2.6-1.9-2.6 1.9 1-3-2.6-1.9h3.2z"/>
+    <path d="M520 30l0.9 2.7h2.9l-2.3 1.7 0.9 2.7-2.3-1.7-2.3 1.7 0.9-2.7-2.3-1.7h2.9z" opacity="0.7"/>
+    <circle cx="300" cy="34" r="2.8"/>
+    <circle cx="760" cy="42" r="2.2"/>
+    <circle cx="940" cy="28" r="2.5"/>
   </g>
-  <!-- abstract music note (geometric, not a character) -->
-  <g opacity="0.5">
-    <circle cx="1128" cy="78" r="5" fill="#39C5BB"/>
-    <rect x="1133" y="42" width="3" height="40" rx="1" fill="#39C5BB"/>
-    <path d="M1133 42 Q 1148 38 1155 48 Q 1148 52 1136 50" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- tiny spark dots -->
+  <g fill="#39C5BB" opacity="0.45">
+    <circle cx="250" cy="62" r="1.4"/>
+    <circle cx="580" cy="28" r="1.2"/>
+    <circle cx="850" cy="56" r="1.3"/>
   </g>
-  <path d="M0 108 Q 150 78 300 103 T 600 101 T 900 105 T 1200 98 L 1200 160 L 0 160 Z" fill="url(#wave)" opacity="0.2"/>
-  <path d="M0 118 Q 200 92 400 112 T 800 110 T 1200 104" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round" opacity="0.88"/>
-  <path d="M0 128 Q 180 114 360 122 T 720 120 T 1200 114" fill="none" stroke="#586069" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
-  <circle cx="1080" cy="34" r="4" fill="#E8489F" opacity="0.55"/>
-  <circle cx="1105" cy="48" r="2.5" fill="#39C5BB" opacity="0.5"/>
+  <!-- abstract music note -->
+  <g opacity="0.48">
+    <circle cx="1132" cy="88" r="5.5" fill="#39C5BB"/>
+    <rect x="1137" y="48" width="3" height="44" rx="1" fill="#39C5BB"/>
+    <path d="M1137 48 Q 1152 44 1160 54 Q 1152 58 1140 56" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <path d="M0 118 Q 150 86 300 112 T 600 110 T 900 114 T 1200 106 L 1200 175 L 0 175 Z" fill="url(#wave)" opacity="0.22"/>
+  <path d="M0 128 Q 200 100 400 120 T 800 118 T 1200 112" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round" opacity="0.9"/>
+  <path d="M0 138 Q 180 122 360 130 T 720 128 T 1200 122" fill="none" stroke="#E8489F" stroke-width="1.2" stroke-linecap="round" opacity="0.28"/>
+  <path d="M0 146 Q 220 136 440 142 T 880 140 T 1200 134" fill="none" stroke="#586069" stroke-width="0.9" stroke-linecap="round" opacity="0.28"/>
+  <circle cx="1088" cy="38" r="4.2" fill="#E8489F" opacity="0.52"/>
+  <circle cx="1112" cy="52" r="2.6" fill="#39C5BB" opacity="0.48"/>
 </svg>

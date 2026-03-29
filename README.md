@@ -32,7 +32,9 @@
 
 <h3 align="center">Hi, I'm Eduard Heracci ~ ♪✧</h3>
 
-<img src="assets/divider.svg" alt="" width="100%" height="10" />
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
+
+<p align="center"><img src="assets/sparkle-row.svg" alt="" width="260" /></p>
 
 <p align="center"><strong>Web & mobile developer</strong> · I care about interfaces that feel <em>clear, kind, and a little fun</em> ✨<br />
 Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</p>
@@ -41,7 +43,7 @@ Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:�
 
 <p align="center">♡ · ～ · ♪ · ～ · ♡</p>
 
-<img src="assets/divider.svg" alt="" width="100%" height="10" />
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
 
 ### ♪ My toolbox
 
@@ -60,13 +62,15 @@ Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:�
 
 <p align="center"><sub>✦</sub> · ˚ · <sub>♡</sub> · ˚ · <sub>✦</sub></p>
 
-<img src="assets/divider.svg" alt="" width="100%" height="10" />
+<p align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></p>
+
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
 
 ### ♪ About me
 
 I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**, and **Node.js** APIs. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
 
-<img src="assets/divider.svg" alt="" width="100%" height="10" />
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
 
 ### ♪ Leveling up
 
@@ -76,9 +80,11 @@ I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**,
 
 React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Next.js
 
+<p align="center"><img src="assets/sparkle-row.svg" alt="" width="240" /></p>
+
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="100%" height="10" />
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
 
 <br />
 
@@ -94,6 +100,6 @@ React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Nex
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%" height="10" />
+<img src="assets/divider.svg" alt="" width="100%" height="16" />
 
 <sub>Palette: teal <code>#39C5BB</code>, wash <code>#E8FBF9</code>, accent <code>#E8489F</code>. Banner & dividers are original SVGs. Wordmark: <a href="https://commons.wikimedia.org/wiki/File:Hatsune_miku_logo_v3.png">Wikimedia Commons</a> (PD-textlogo / trademark may apply).</sub>
