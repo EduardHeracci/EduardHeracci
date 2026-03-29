@@ -24,6 +24,8 @@
 
 # Hi, I'm Eduard Heracci ~ ♪✧
 
+<img src="assets/divider.svg" alt="" width="100%" height="10" />
+
 <p align="center"><strong>Web & mobile developer</strong> · I care about interfaces that feel <em>clear, kind, and a little fun</em> ✨<br />
 Miku-teal enjoyer (<strong>#39C5BB</strong>) · cute UI · (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</p>
 
@@ -66,8 +68,6 @@ I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**,
 
 React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Next.js
 
----
-
 <div align="center">
 
 <img src="assets/divider.svg" alt="" width="100%" height="10" />
@@ -86,6 +86,6 @@ React Native shipping · Directus · Playwright · Docker + AWS · GitLab · Nex
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%" height="10" />
 
 <sub>Palette: teal <code>#39C5BB</code>, wash <code>#E8FBF9</code>, accent <code>#E8489F</code>. Banner & dividers are original SVGs. Wordmark: <a href="https://commons.wikimedia.org/wiki/File:Hatsune_miku_logo_v3.png">Wikimedia Commons</a> (PD-textlogo / trademark may apply).</sub>
