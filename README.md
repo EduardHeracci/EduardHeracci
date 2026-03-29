@@ -4,27 +4,24 @@
 
 <br />
 
-<img src="https://media.giphy.com/media/Hs1ZdBBpaHO9y/giphy.gif" width="200" alt="Hatsune Miku dancing — GIF from GIPHY" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/Hs1ZdBBpaHO9y/giphy.gif" width="200" alt="Hatsune Miku dancing — GIF from GIPHY" /><br />
+      <sub><em>main stage energy ~ ♪</em></sub><br /><br />
+      <img src="https://media.giphy.com/media/NknysRm1z1qPVsec4d/giphy.gif" width="200" alt="Cute Miku-style GIF from GIPHY" /><br />
+      <sub><em>debugging but make it kawaii</em></sub>
+    </td>
+  </tr>
+</table>
 
 <br />
-
-<sub><em>main stage energy ~ ♪</em></sub>
-
-<br /><br />
-
-<img src="https://media.giphy.com/media/NknysRm1z1qPVsec4d/giphy.gif" width="200" alt="Cute Miku-style GIF from GIPHY" />
-
-<br />
-
-<sub><em>debugging but make it kawaii</em></sub>
-
-<br /><br />
 
 <sub>GIFs from <a href="https://giphy.com/gifs/hatsune-miku-Hs1ZdBBpaHO9y">GIPHY</a> · <em>Hatsune Miku</em> is a trademark of Crypton Future Media, INC.</sub>
 
 <br /><br />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Hatsune_miku_logo_v3.png/260px-Hatsune_miku_logo_v3.png" height="34" alt="Hatsune Miku wordmark — Wikimedia Commons, PD-textlogo; trademark may apply" />
+<a href="https://commons.wikimedia.org/wiki/File:Hatsune_miku_logo_v3.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Hatsune_miku_logo_v3.png" width="200" alt="Hatsune Miku wordmark — tap for Wikimedia Commons (PD-textlogo; trademark may apply)" /></a>
 
 </div>
 
@@ -44,8 +41,6 @@
 ### ♪ About me
 
 I spend most of my time in **React** & **Next.js**, **Expo** & **React Native**, and **Node.js** APIs. **Directus** + **PostgreSQL** handle a lot of my content/data shape, and **Vitest** + **Playwright** keep me honest.
-
-I live in **Git** day to day; my team ships on **GitLab** too, so you’ll find me in both places. I **Docker**-ize things, push images to **AWS**, and stash files in **S3**. Pipelines (**GitLab CI** / **GitHub Actions**) when the repo already has them — still getting smoother at how I talk about that part ~
 
 ---
 
