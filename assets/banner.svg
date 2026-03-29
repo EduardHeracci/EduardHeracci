@@ -1,20 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Decorative banner: soft teal gradient with abstract waves">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160" role="img" aria-label="Decorative banner: Miku-inspired teal gradient, stars, and soft waves (no character art)">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#E8FBF9"/>
-      <stop offset="55%" style="stop-color:#FFFFFF"/>
-      <stop offset="100%" style="stop-color:#F0FFFD"/>
+      <stop offset="50%" style="stop-color:#FFFFFF"/>
+      <stop offset="100%" style="stop-color:#F5FFFE"/>
     </linearGradient>
     <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#39C5BB;stop-opacity:0.35"/>
-      <stop offset="50%" style="stop-color:#39C5BB;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#39C5BB;stop-opacity:0.95"/>
       <stop offset="100%" style="stop-color:#39C5BB;stop-opacity:0.35"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="140" fill="url(#bg)"/>
-  <path d="M0 95 Q 150 65 300 90 T 600 88 T 900 92 T 1200 85 L 1200 140 L 0 140 Z" fill="url(#wave)" opacity="0.22"/>
-  <path d="M0 102 Q 200 78 400 98 T 800 96 T 1200 90" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
-  <path d="M0 112 Q 180 100 360 108 T 720 106 T 1200 100" fill="none" stroke="#586069" stroke-width="1" stroke-linecap="round" opacity="0.35"/>
-  <circle cx="1080" cy="38" r="4" fill="#E8489F" opacity="0.55"/>
-  <circle cx="1105" cy="52" r="2.5" fill="#39C5BB" opacity="0.5"/>
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <!-- soft stars -->
+  <g fill="#39C5BB" opacity="0.35">
+    <path d="M88 28l2.2 6.7h7.1l-5.7 4.1 2.2 6.7-5.8-4.2-5.8 4.2 2.2-6.7-5.7-4.1h7.1z"/>
+    <path d="M1020 22l1.6 4.9h5.2l-4.2 3 1.6 4.9-4.2-3.1-4.2 3.1 1.6-4.9-4.2-3h5.2z" opacity="0.8"/>
+    <path d="M180 48l1.2 3.6h3.8l-3.1 2.2 1.2 3.6-3.1-2.3-3.1 2.3 1.2-3.6-3.1-2.2h3.8z" fill="#E8489F" opacity="0.45"/>
+  </g>
+  <g fill="#E8489F" opacity="0.25">
+    <circle cx="320" cy="36" r="3"/>
+    <circle cx="890" cy="44" r="2.5"/>
+  </g>
+  <!-- abstract music note (geometric, not a character) -->
+  <g opacity="0.5">
+    <circle cx="1128" cy="78" r="5" fill="#39C5BB"/>
+    <rect x="1133" y="42" width="3" height="40" rx="1" fill="#39C5BB"/>
+    <path d="M1133 42 Q 1148 38 1155 48 Q 1148 52 1136 50" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <path d="M0 108 Q 150 78 300 103 T 600 101 T 900 105 T 1200 98 L 1200 160 L 0 160 Z" fill="url(#wave)" opacity="0.2"/>
+  <path d="M0 118 Q 200 92 400 112 T 800 110 T 1200 104" fill="none" stroke="#39C5BB" stroke-width="2.5" stroke-linecap="round" opacity="0.88"/>
+  <path d="M0 128 Q 180 114 360 122 T 720 120 T 1200 114" fill="none" stroke="#586069" stroke-width="1" stroke-linecap="round" opacity="0.3"/>
+  <circle cx="1080" cy="34" r="4" fill="#E8489F" opacity="0.55"/>
+  <circle cx="1105" cy="48" r="2.5" fill="#39C5BB" opacity="0.5"/>
 </svg>
