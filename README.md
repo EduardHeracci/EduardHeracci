@@ -79,13 +79,9 @@ I spend most of my time in **Expo**, **Firebase**, and **Node.js** (Firebase Clo
 
 I care about building things that are **fast, maintainable, and pleasant to use** — whether it's a mobile app or a backend pipeline ✨
 
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
-
 ### ♪ Leveling Up
 
 **Vue.js** & **FastAPI** — new playgrounds next to my React / Node comfort zone ~ ٩(｡•́‿•̀｡)۶
-
-<img src="assets/divider.svg" alt="" width="100%" height="16" />
 
 ### ♪ Ask Me About ~
 
