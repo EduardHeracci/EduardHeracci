@@ -20,7 +20,7 @@
 
 <br />
 
-<h3>Hi, I'm Eduard Heracci ~ ♪ ✧</h3> 
+<h3>Hi, I'm Miku Teal ~ ♪ ✧</h3> 
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
