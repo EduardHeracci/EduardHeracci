@@ -20,7 +20,7 @@
 
 <br />
 
-<h3>Hello hello~ ♪ ☆</h3> 
+<h3>Hello hello ~ ♪ ☆</h3> 
 
 <img src="assets/divider.svg" alt="" width="100%" height="16" />
 
