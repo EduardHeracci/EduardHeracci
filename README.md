@@ -101,7 +101,7 @@ I spend most of my time in **Expo**, **Firebase**, and **Node.js** (Firebase Clo
 
 <div align="center">
 
-**GitHub** → [@MikutTeal](https://github.com/mikuteal) &nbsp;·&nbsp; **GitLab** → [@MikutTeal](https://gitlab.com/EduardHeracci)
+**GitHub** → [@MikutTeal](https://github.com/mikuteal) &nbsp;·&nbsp; **GitLab** → [@MikutTeal](https://gitlab.com/mikuteal)
 
 <br />
 
